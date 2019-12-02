@@ -1,0 +1,55 @@
+[33mcommit 23dde016e09f9dd535c558fbcd96048cc03295ed[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mupdateB[m[33m)[m
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sun Dec 1 23:31:04 2019 -0500
+
+    agregando update B
+
+[33mcommit 3d214c34e3d065a6f4a040d97fc680b8c50d47e3[m
+Merge: 3a9e5bc 5ff1213
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sun Dec 1 23:24:17 2019 -0500
+
+    Merge branch 'nueva-imagen'
+
+[33mcommit 3a9e5bcc305a154b12bc1507edd2005ba9a641d5[m
+Merge: 5724ed9 7b06307
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sun Dec 1 23:18:08 2019 -0500
+
+    Merge branch 'RD'
+
+[33mcommit 7b06307e7e3df22d2019e78951f57b8b8f0f8d2c[m[33m ([m[1;32mRD[m[33m)[m
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sun Dec 1 23:07:09 2019 -0500
+
+    invie responsive
+
+[33mcommit 5ff121373d29f848ad05fe74aa3ad997516a14fe[m[33m ([m[1;32mnueva-imagen[m[33m)[m
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sun Dec 1 22:52:36 2019 -0500
+
+    nueva version de invie - verde
+
+[33mcommit 5724ed90be6cb860f63d8acad670405334bd6351[m[33m ([m[1;32mhotfix[m[33m)[m
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sun Dec 1 22:47:42 2019 -0500
+
+    hostfix 1
+
+[33mcommit 2f45b7d5793088793bd9f300c994525ea84ffcfc[m
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sun Dec 1 01:25:35 2019 -0500
+
+    este es el ultimo mensaje de mi commit
+
+[33mcommit eed2a3a4ba8477e953f53f5083d19592f2fda423[m
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sun Dec 1 00:48:32 2019 -0500
+
+    Agregando guitarra acustica
+
+[33mcommit 893a2b808d7ff4367aa9ba31254245beb4f0ce0a[m[33m ([m[1;33mtag: 0.5[m[33m)[m
+Author: jeespoping <jeespoping@gmail.com>
+Date:   Sat Nov 30 23:57:14 2019 -0500
+
+    inicializar nuestro landing
